@@ -5,6 +5,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 public class keyListener implements KeyListener {
+    // listens for key inputs not that hard to understand tbh
     private final RandomMap randomMap;
 
     public keyListener(RandomMap randomMap) {
